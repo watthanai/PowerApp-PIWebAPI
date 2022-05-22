@@ -8,8 +8,31 @@
 
 [![Status](https://img.shields.io/badge/status-successed-success.svg)]()
 
-<h3 align="left">Intorducing projects :</h3>
-<p align= "left">This project aim to connect power apps application that is hosted in the cloud but PI system is located somewhere on permises your pi Web API instance is behind sort of DMZ so in order for powerapps to be able to retrieve your pi system data. </p>
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
+## About The Project
+<p align= "left">This project aim to connect power apps application that is hosted in the cloud but PI system is located somewhere on permises your pi Web API instance is behind sort of DMZ so in order for powerapps to be able to retrieve your pi system data need some communication via something called the <b>on-premises data gatway.<b> </p>
+<p align="center">
+ <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/Architecture.png"><br></p>
 
 ---
