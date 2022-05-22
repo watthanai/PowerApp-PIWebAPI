@@ -60,4 +60,4 @@ This instances will be splitting the demo of buildding in ther application of 2 
 <li>Post Payload</li>
 </ul>
 
-First of all I'm going to explan how do i actually retrieve information to be a PI Web API <a href="">Pi Web API Best Practices</a>
+First of all I'm going to explan how do i actually retrieve information to be a PI Web API <a href="#PI Web API Best Practices">Pi Web API Best Practices</a>
