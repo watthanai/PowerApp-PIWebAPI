@@ -15,24 +15,49 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#PI Web API Best Practices">PI Web API Best Practices</a></li>
+        <li><a href="#Test web API">Test Web API</a></li>
+        <li><a href="#Create Connector">Create Connector</a></li>
+        <li><a href="#Create App Demo">Create App Demo</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#Experiment App">Experiment App</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
 ## About The Project
-<p align= "left">This project aim to connect power apps application that is hosted in the cloud but PI system is located somewhere on permises your pi Web API instance is behind sort of DMZ so in order for powerapps to be able to retrieve your pi system data need some communication via something called the <b>on-premises data gatway.<b> </p>
+
+<p align= "left">This project aim to connect power apps application that is hosted in the cloud but PI system is located somewhere on permises your pi Web API instance is behind sort of DMZ so in order for powerapps to be able to retrieve your pi system data need some communication via something called the <b>on-premises data gatway.</b> </p>
 <p align="center">
  <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/Architecture.png"><br></p>
 
----
+### Prerequisites
+
+In this case I assumed you installed configure PI API successfully you should be able to access pi web API using the URL and use any web brower
+
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/data-integration/gateway/service-gateway-install">Install an on-premises data gateway</a></li>
+<li><a href="https://www.postman.com/downloads/">Install Postman</a></li>
+</ul>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+This instances will be splitting the demo of buildding in ther application of 2 parts
+
+<ul>
+<li>Search Screen Payload</li>
+<li>Post Payload</li>
+</ul>
+
+First of all I'm going to explan how do i actually retrieve information to be a PI Web API <a href="">Pi Web API Best Practices</a>
