@@ -60,4 +60,9 @@ This instances will be splitting the demo of buildding in ther application of 2 
 <li>Post Payload</li>
 </ul>
 
-First of all I'm going to explan how do i actually retrieve information to be a PI Web API <a href="#PI Web API Best Practices">Pi Web API Best Practices</a>
+### PI Web API Best Practices
+First of all I'm going to explan how do i actually retrieve information to be a PI Web API 
+<li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/Port-SQL.md">Overview PI-WEB API</a> </li>
+<p align="center"><br>
+ <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/Architecture.png"><br></p>
+
