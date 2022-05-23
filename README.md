@@ -62,9 +62,10 @@ This instances will be splitting the demo of buildding in ther application of 2 
 
 ### PI Web API Best Practices
 First of all I'm going to explan how do i actually retrieve information to be a PI Web API 
-<li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/Port-SQL.md">Overview PI-WEB API</a> </li>
+<li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/Port-SQL.md">Overview PI-WEB API</a> </li><br>
 
 <p align="center">
- <img  width=400px height=250px src="https://github.com/watthanai/PowerApp-PIWebAPI/blob/master/OverviewPI-WebAPI.PNG"><br></p>
+ <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/OverviewPI-WebAPI.PNG"><br></p>
 
-
+### Test PI WEB-API
+First of all I'm going to explan how do i actually retrieve information to be a PI Web API 
