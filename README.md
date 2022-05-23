@@ -21,7 +21,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#PI Web API Best Practices">PI Web API Best Practices</a></li>
+        <li><a href="#PI-WebAPI Practices">PI-WebAPI Practices</a></li>
         <li><a href="#Test web API">Test Web API</a></li>
         <li><a href="#Create Connector">Create Connector</a></li>
         <li><a href="#Create App Demo">Create App Demo</a></li>
@@ -60,7 +60,7 @@ This instances will be splitting the demo of buildding in ther application of 2 
 <li>Post Payload</li>
 </ul>
 
-### PI Web API Best Practices
+### PI-WebAPI Practices
 First of all I'm going to explan how do i actually retrieve information to be a PI Web API 
 <li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/Port-SQL.md">Overview PI-WEB API</a> </li><br>
 
