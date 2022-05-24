@@ -38,7 +38,7 @@
 <p align="center">
  <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/Architecture.png"><br></p>
 
-### test
+### Prerequisites
 
 In this case I assumed you installed configure PI API successfully you should be able to access pi web API using the URL and use any web brower
 
@@ -60,7 +60,7 @@ This instances will be splitting the demo of buildding in ther application of 2 
 <li>Post Payload</li>
 </ul>
 
-### PI-WebAPI Practices
+### test
 
 First of all I'm going to explan how do i actually retrieve information to be a PI Web API 
 <li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/Port-SQL.md">Overview PI-WEB API</a> </li><br>
