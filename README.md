@@ -21,8 +21,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#test">test</a></li>
-        <li><a href="#Test web API">Test Web API</a></li>
+        <li><a href="#PI-WebAPI-Practrices">PI WebAPI Practrices</a></li>
+        <li><a href="#Test-WebAPI">Test WebAPI</a></li>
         <li><a href="#Create Connector">Create Connector</a></li>
         <li><a href="#Create App Demo">Create App Demo</a></li>
       </ul>
@@ -60,7 +60,7 @@ This instances will be splitting the demo of buildding in ther application of 2 
 <li>Post Payload</li>
 </ul>
 
-### test
+### PI WebAPI Practrices
 
 First of all I'm going to explan how do i actually retrieve information to be a PI Web API 
 <li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/Port-SQL.md">Overview PI-WEB API</a> </li><br>
@@ -69,5 +69,5 @@ First of all I'm going to explan how do i actually retrieve information to be a 
  <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/OverviewPI-WebAPI.PNG"><br></p>
 
 
-### Test PI WEB-API
+### Test WebAPI
 
