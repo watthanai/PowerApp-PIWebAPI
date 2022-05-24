@@ -21,7 +21,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#test">test</a></li>
+        <li><a href="#PI-WebAPI Practices">PI-WebAPI Practices</a></li>
         <li><a href="#Test web API">Test Web API</a></li>
         <li><a href="#Create Connector">Create Connector</a></li>
         <li><a href="#Create App Demo">Create App Demo</a></li>
