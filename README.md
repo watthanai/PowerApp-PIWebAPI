@@ -60,15 +60,14 @@ This instances will be splitting the demo of buildding in ther application of 2 
 <li>Post Payload</li>
 </ul>
 
-<!-- ### PI-WebAPI Practices
+### PI-WebAPI Practices
+
 First of all I'm going to explan how do i actually retrieve information to be a PI Web API 
-<li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/Port-SQL.md">Overview PI-WEB API</a> </li><br> -->
-### test
+<li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/Port-SQL.md">Overview PI-WEB API</a> </li><br>
 
-In this case I assumed you installed configure PI API successfully you should be able to access pi web API using the URL and use any web brower
-
-<!-- <p align="center">
+<p align="center">
  <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/OverviewPI-WebAPI.PNG"><br></p>
 
+
 ### Test PI WEB-API
-First of all I'm going to explan how do i actually retrieve information to be a PI Web API  -->
+
