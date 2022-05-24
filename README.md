@@ -70,4 +70,4 @@ First of all I'm going to explan how do i actually retrieve information to be a 
 
 
 ### Test WebAPI
-
+This tells you the list of the AF Servers this part. I will give you an example how we're going to support test WebApi via application so i'm gonna use postman. Because it's easy to use.
