@@ -24,10 +24,9 @@
         <li><a href="#PI-WebAPI-Practrices">PI WebAPI Practrices</a></li>
         <li><a href="#Test-WebAPI">Test WebAPI</a></li>
         <li><a href="#Create-Connector">Create Connector</a></li>
-        <li><a href="#Create App Demo">Create App Demo</a></li>
+        <li><a href="#Create-App-Demo">Create App Demo</a></li>
       </ul>
     </li>
-    <li><a href="#Experiment App">Experiment App</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -79,9 +78,54 @@ This tells you the list of the AF Servers this part. I will give you an example 
 ### Create Connector
 
 I will use custom connector are something like a template that defined here's what i can do to a certain data source in our case so we have to define your PI Web-API that you focus In this case. I refered to the above Topic's <b>Test WebAPI</b>
+
+   ```sh
+!!! First Of All Please checked your Gatway onlines !!!
+  ```
+
 <p align="center">
 
-<li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/Port-SQL.md">Create Connector In PowerApp</a> </li><br>
+<li><a href="https://github.com/watthanai/PowerApp-PIWebAPI/blob/master/CreateConnectorApp.md">Create Connector In PowerApp</a> </li><br>
 
 <p align="center">
- <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/Postman.png"><br></p>
+ <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/App-Gateway.png"><br></p>
+
+
+### Create App Demo
+
+   ```sh 
+# I make 1 screen consist of 2 mothod depend on mode of toggle switch
+--------------------------------------------------------------------- 
+UpdateContext({DataSourcePost:'Demo-PIWebAPI'.GetDummyBatchIDRecord().Items});
+UpdateContext({DataSourceGet:'Demo-PIWebAPI'.BG1BGO01Volume().Items});
+UpdateContext({ts:Now()});
+Reset(TextInput1);
+  ```
+<ul>
+<li><a href="">Get Payload</a></li>
+<li><a href="">Post payload</a></li>
+</ul>
+
+<p align="center">
+ <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/App-Gateway.png"><br></p>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@Watthani-l]() 
+
+Project Link: [https://github.com/watthanai](https://github.com/watthanai)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+----
+<div align="center">
+
+### Thank you for watching ❤️ 
+
+</div>
