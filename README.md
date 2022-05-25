@@ -107,7 +107,7 @@ Reset(TextInput1);
 </ul>
 
 <p align="center">
- <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/App-Gateway.png"><br></p>
+ <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/PowerApp.png"><br></p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
