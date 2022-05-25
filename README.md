@@ -23,7 +23,7 @@
       <ul>
         <li><a href="#PI-WebAPI-Practrices">PI WebAPI Practrices</a></li>
         <li><a href="#Test-WebAPI">Test WebAPI</a></li>
-        <li><a href="#Create Connector">Create Connector</a></li>
+        <li><a href="#Create-Connector">Create Connector</a></li>
         <li><a href="#Create App Demo">Create App Demo</a></li>
       </ul>
     </li>
@@ -70,4 +70,18 @@ First of all I'm going to explan how do i actually retrieve information to be a 
 
 
 ### Test WebAPI
-This tells you the list of the AF Servers this part. I will give you an example how we're going to support test WebApi via application so i'm gonna use postman. Because it's easy to use.
+
+This tells you the list of the AF Servers this part. I will give you an example how we're going to support test WebApi via application so i'm gonna use postman. Because it's easy to use.<br>
+
+<p align="center">
+ <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/Postman.png"><br></p>
+
+### Create Connector
+
+I will use custom connector are something like a template that defined here's what i can do to a certain data source in our case so we have to define your PI Web-API that you focus In this case. I refered to the above Topic's <b>Test WebAPI</b>
+<p align="center">
+
+<li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/Port-SQL.md">Create Connector In PowerApp</a> </li><br>
+
+<p align="center">
+ <img  width=400px height=250px src="https://raw.githubusercontent.com/watthanai/PowerApp-PIWebAPI/master/Postman.png"><br></p>
